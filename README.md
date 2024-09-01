@@ -1,7 +1,7 @@
 # FreelancersAPI
 
 ![Interface](https://res.cloudinary.com/debyvpjhw/image/upload/v1725178914/Home_Interface_msvbro.png)
-<br><br><br>
+<br><br/>
 ## **Introduction**
 
 FreelancersAPI is a project that utilizing RESTful API for managing a list of freelancers for the fictional company CDN. It is built using ASP.NET Core following the MVC (Model-View-Controller) architecture. This API has features that allow users to easily register, update, delete, and retrieve information about freelancers, including their username, email, phone number, skillsets, and hobbies.
