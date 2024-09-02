@@ -18,7 +18,7 @@ FreelancersAPI is a project that utilizing RESTful API for managing a list of fr
 
 1. **Register** - Add a new freelancer to the directory
 2. **Get Users** - Retrieve a list of all registered freelancers information
-3. **Get User by ID** - Retrieve detailed information about a specefic freelancer
+3. **Get User by ID** - Retrieve detailed information about a specific freelancer
 4. **Update User Details** - Modify existing freelancer information
 5. **Delete User** - Remove a freelancer from the directory
 
