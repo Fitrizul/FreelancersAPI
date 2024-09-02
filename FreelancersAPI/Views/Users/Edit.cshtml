@@ -8,7 +8,8 @@
 
 <div class="container">
     <div class="row justify-content-center mb-4">
-        <div class="col-md-8 col-lg-6">
+        <!-- Reduced width using col-md-6 col-lg-4 -->
+        <div class="col-md-6 col-lg-4">
             <form asp-action="Edit">
                 <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
 
@@ -54,13 +55,16 @@
                     </div>
                 </div>
 
-                <div class="d-flex justify-content-center">
-                    <input type="submit" value="Save" class="btn btn-primary" />
+                <!-- Button Container -->
+                <div class="d-flex justify-content-center gap-2">
+                    <input type="submit" value="Save" class="btn btn-primary btn-equal-width" />
+                    <a href="/" class="btn btn-secondary btn-equal-width">Home</a>
                 </div>
             </form>
         </div>
     </div>
 </div>
+
 
 
 @section Scripts {

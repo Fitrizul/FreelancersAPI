@@ -29,7 +29,7 @@ body {
     font-size : 40px;
 }
 
-.btn-primary {
+p > .btn-primary {
     width: 160px;
     text-align: center;
     font-size: 18px;
@@ -72,6 +72,10 @@ td > .btn {
 
 .mb-3 {
     margin-bottom: 1.1rem; 
+}
+
+.btn-equal-width {
+    width: 100px;
 }
 
 #display {
